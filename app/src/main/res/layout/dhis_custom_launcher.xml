@@ -7,7 +7,7 @@
 
     <ImageView
         android:id="@+id/appwidget_image"
-        android:layout_width="48dp"
+        android:layout_width="130dp"
         android:layout_height="48dp"
         android:layout_centerHorizontal="true"
         android:background="@drawable/appwidget_bg"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:gravity="center"
-        android:text="DHIS2"
+        android:text="HealthMate"
         android:textColor="@color/colorGreyDefault"
         android:alpha="0.2"
         android:textSize="13sp" />
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:gravity="center"
-        android:text="DHIS2"
+        android:text="HealthMate"
         android:textColor="@color/white"
         android:textSize="12sp" />
 

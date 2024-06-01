@@ -1,8 +1,8 @@
 <resources>
     <!--GENERAL-->
-    <string name="app_name">Dhis2</string>
-    <string name="logo_text">dhis</string>
-    <string name="logo_number">2</string>
+    <string name="app_name">Health Mate</string>
+    <string name="logo_text">Health</string>
+    <string name="logo_number">Mate</string>
     <string name="tab" translatable="false">\u0009</string>
     <string name="default_notification_channel_id" translatable="false">20180901</string>
     <!-- Warnings and error messages -->

@@ -5,7 +5,8 @@
 
     <item>
         <bitmap android:src="@mipmap/ic_splash_icon"
-            android:gravity="center"/>
+            android:gravity="center"
+            />
     </item>
 
 </layer-list>
